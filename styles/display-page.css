@@ -1,0 +1,49 @@
+
+main {
+	font-size: 0;
+}
+
+.box-parent {
+	margin-top: 90px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.box_half {
+	width: 50%;
+	height: 200px;
+}
+
+.box_third {
+	width: 33.33%;
+	height: 300px;
+}
+.one {
+	background-color: green;
+}
+
+
+.two {
+	background-color: blue;
+}
+
+.three {
+	background-color: grey;
+}
+
+.four {
+	background-color: black;
+}
+
+.five {
+	background-color: orange;
+}
+
+.centered {
+	text-align: center;
+}
