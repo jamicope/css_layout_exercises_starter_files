@@ -1,12 +1,33 @@
 body {
-  background-color: black;
-  color: white;
+    background-color: black;
+    color: white;
 }
 
 main {
-  padding-left: 90px;
-  padding-right: 90px;
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
+    padding-left: 90px;
+    padding-right: 90px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.green-nebula,
+.blue-nebula {
+    width: 300px;
+    height: auto;
+}
+
+.green-nebula {
+    float: left;
+    margin: 10px;
+}
+
+.blue-nebula {
+    float: right;
+    margin: 10px;
+}
+
+.p1,
+.p2 {
+    margin-left: auto;
 }
